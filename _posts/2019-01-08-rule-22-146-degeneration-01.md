@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rule 22 degenerating into rule 146"
-gif: assets/2019/01/08/rule-22-146-degeneration-01-600px/rule-22-146-degeneration-01_9.gif
+gif: assets/2019/01/08/rule-22-146-degeneration-01-600px/rule-22-146-degeneration-01_6.gif
 date: 2019-01-08
 ---
 
